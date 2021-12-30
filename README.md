@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.14.
 
+### Editor HomePage
+![EditorPage](https://github.com/kuluruvineeth/Angular-WYSIWYG-Desktop-editor/blob/master/screenshots/editorPage.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
